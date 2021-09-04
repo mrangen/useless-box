@@ -1,3 +1,16 @@
+## mrangen-fork
+### KiCad Version
+My friend was having trouble with the original files and asked if I could quickly remake it for them in KiCad. I'm not the original author of this design, I simply rebuilt the original author's design in KiCad.
+![Photo](./KiCad%20Version/Pictures/Schematic.png)
+![Photo](./KiCad%20Version/Pictures/PCB%20Front%20Silk.png)
+![Photo](./KiCad%20Version/Pictures/PCB%20Front.png)
+![Photo](./KiCad%20Version/Pictures/PCB%20Back.png)
+![Photo](./KiCad%20Version/Pictures/Render1.png)
+![Photo](./KiCad%20Version/Pictures/Render2.png)
+
+
+
+
 # Smart Useless Box with ESP8266 and Gesture Sensor
 
 A useless box made smarter with an ESP8266 microcontroller on a Wemos D1 Mini board and an APDS-9960 proximity sensor to give more funny responses.
